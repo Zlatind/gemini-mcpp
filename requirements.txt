@@ -1,2 +1,2 @@
-mcp>=1.10
+mcp>=1.10,<2
 google-genai
